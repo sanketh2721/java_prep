@@ -1,0 +1,23 @@
+Java Basic Syntax:
+
+Before writing complex programs, it is important to understand the basic syntax of Java. The syntax defines the rules and structure of how Java code is written and executed. Every Java program is built using classes, methods, and statements.
+
+Example:
+public class HelloWorld {
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World");
+    }
+}
+
+
+Output 
+Hello, World
+
+Explanation:
+
+public class HelloWorld: Defines a class named HelloWorld.
+
+public static void main(String[] args): The entry point of the program; execution starts here.
+
+System.out.println("Hello, World"); Prints the text "Hello, World" followed by a new line.
